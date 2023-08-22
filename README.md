@@ -7,9 +7,9 @@ The course is taught by the following instructors:
   - Roger D. Peng, PhD
   - Brian Caffo, PhD
 
-[`CodeBook.rmd`](https://github.com/louiewee/getcleandata/blob/main/CodeBook.md) describes the variables, the data, and any transformations or work that was performed to clean up the data present in the codebook.
+[`CodeBook.rmd`](https://github.com/louiewee/getcleandata/blob/main/CodeBook.md) describes the variables, the data, and all work that was performed to clean up the data present in the codebook.
 
-[`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/run_analysis.R) contains all the code to perform the analyses described in the 5 steps in the codebook. It can be run in RStudio along with the data present in the same folder, un-compressed and without names altered.
+[`run_analysis.R`](https://github.com/louiewee/getcleandata/blob/main/run_analysis.R) outlines the R code. It can be run in RStudio along with the data present in the same folder, un-compressed and without names altered.
 
 > 1. Merges the training and the test sets to create one data set.
 > 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
