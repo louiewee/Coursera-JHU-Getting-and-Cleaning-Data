@@ -23,7 +23,7 @@ Here is the data for the project:
 9.  `testsubject` and `trainsubject`: contains testing and training subjectID(s)
 10. `MeanSDcolnames`: contains a boolean vector of names of variables on mean and standard deviations
 
-# The transformation
+# Steps taken to generate the "tidy_data.txt" datatable
 
 File with R code [`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/run_analysis.R) performs the 5 following steps:
 
@@ -37,6 +37,4 @@ File with R code [`run_analysis.R`](https://github.com/stormrinz/getting-and-cle
 
 5.  Creating a second, independent tidy data set with the average of each variable for each activity and each subject:\
     5.1 Making second tidy data set (`FINALtidyset`)\
-    5.2 Writing second tidy data set in .txt file ([`tidy.txt`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/tidy.txt))
-
-The code assumes all the data is present in the same folder, un-compressed and without names altered.
+    5.2 Writing second tidy data set in .txt file ([`tidy_data.txt`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/tidy.txt))
