@@ -37,4 +37,4 @@ File with R code [`run_analysis.R`](https://github.com/louiewee/getcleandata/blo
 
 5.  Creating a second, independent tidy data set with the average of each variable for each activity and each subject:\
     5.1 Making second tidy data set (`FINALtidyset`)\
-    5.2 Writing second tidy data set in .txt file ([`tidy_data.txt`](https://github.com/louiewee/getcleandata/blob/main/tidy_data.txt)
+    5.2 Writing second tidy data set in .txt file ([`tidy_data.txt`](https://github.com/louiewee/getcleandata/blob/main/tidy_data.txt))
