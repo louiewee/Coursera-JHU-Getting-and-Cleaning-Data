@@ -7,7 +7,7 @@ The course is taught by the following instructors:
   - Roger D. Peng, PhD
   - Brian Caffo, PhD
 
-[`CodeBook.rmd`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/CodeBook.md) describes the variables, the data, and any transformations or work that was performed to clean up the data present in the codebook.
+[`CodeBook.rmd`](https://github.com/louiewee/getcleandata/blob/main/CodeBook.md) describes the variables, the data, and any transformations or work that was performed to clean up the data present in the codebook.
 
 [`run_analysis.R`](https://github.com/stormrinz/getting-and-cleaning-data-UCI-HAR/blob/main/run_analysis.R) contains all the code to perform the analyses described in the 5 steps in the codebook. It can be run in RStudio along with the data present in the same folder, un-compressed and without names altered.
 
